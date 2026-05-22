@@ -1,0 +1,12 @@
+User-Agent: *
+Allow: /
+Allow: /*.js
+Allow: /*.css
+Allow: /*.webp
+Allow: /*.png
+Allow: /*.jpg
+Allow: /*.jpeg
+Disallow: /api/
+
+Host: https://cobb-can-move.net
+Sitemap: https://cobb-can-move.net/sitemap.xml
