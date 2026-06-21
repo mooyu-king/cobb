@@ -1,2 +1,2 @@
-:HL["/_next/static/css/91eaa38fc15e120e.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"tadc-dating-sim","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"DcYno4osSMHnN18_VX1RT"}
+:HL["/_next/static/css/0cc6c07540a5fece.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"tadc-dating-sim","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"EOfiK7OsViIf2r6gOEDIL"}
