@@ -1,2 +1,2 @@
-:HL["/_next/static/css/0cc6c07540a5fece.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"creepydates-chapter-3","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"EOfiK7OsViIf2r6gOEDIL"}
+:HL["/_next/static/css/1eee4ae8a21a04dc.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"creepydates-chapter-3","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"_Ucy40oJUdBFhQSC3fsEh"}
