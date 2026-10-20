@@ -1,2 +1,2 @@
-:HL["/_next/static/css/f27adc4395873123.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"the-coffin-of-andy-and-leyley","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"WYRH5jSrrvPQ95tafOygj"}
+:HL["/_next/static/css/c8cfb3be36ecd9e5.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"the-coffin-of-andy-and-leyley","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"xV9k4yawGBueDUcrjII4G"}
