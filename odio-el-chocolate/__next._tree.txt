@@ -1,5 +1,6 @@
-:HL["/_next/static/css/9d3b85a107a1011f.css","style"]
-:HL["/_next/static/css/f4fba97b9d992492.css","style"]
+:HL["/_next/static/css/393517bb50b8877f.css","style"]
+:HL["/_next/static/css/aff06bc3bacfd413.css","style"]
+:HL["/you-are-hamster-cover.webp","image"]
 :HL["/odio-el-chocolate/logo.webp","image"]
 :HL["/images/aetheria-online/adventure.png","image"]
 :HL["/rwby-rise-of-the-white-fang-cover.webp","image"]
@@ -31,4 +32,4 @@
 :HL["/choicer-voicer-logo.webp","image"]
 :HL["/over-dose-logo.webp","image"]
 :HL["/lovemaniac-scarlet-lust-logo-2.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"odio-el-chocolate","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"FJh7dKfec9u0rMyqlkL1O"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"odio-el-chocolate","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"6iG7Nkz34T6QRqRubGS9G"}
