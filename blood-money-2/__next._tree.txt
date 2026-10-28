@@ -1,3 +1,3 @@
 :HL["/_next/static/css/393517bb50b8877f.css","style"]
 :HL["/_next/static/css/aff06bc3bacfd413.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blood-money-2","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"6iG7Nkz34T6QRqRubGS9G"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blood-money-2","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"QbOmgTI9puK7YcGjMKHoU"}
