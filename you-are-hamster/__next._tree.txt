@@ -1,4 +1,4 @@
-:HL["/_next/static/css/393517bb50b8877f.css","style"]
+:HL["/_next/static/css/213533730e56af08.css","style"]
 :HL["/_next/static/css/718b05740acce3e4.css","style"]
 :HL["/_next/static/css/aff06bc3bacfd413.css","style"]
 :HL["/you-are-hamster-cover.webp","image"]
@@ -33,4 +33,4 @@
 :HL["/choicer-voicer-logo.webp","image"]
 :HL["/over-dose-logo.webp","image"]
 :HL["/lovemaniac-scarlet-lust-logo-2.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"you-are-hamster","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"eXuZ-zizBmuZNEgxJBa4h"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"you-are-hamster","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"Yd1UwqHWmyIfKrg6Pa5IH"}
