@@ -1,5 +1,6 @@
 :HL["/_next/static/css/5665120812a8d573.css","style"]
-:HL["/_next/static/css/aff06bc3bacfd413.css","style"]
+:HL["/_next/static/css/c6138f37bff1f737.css","style"]
+:HL["/nightmare-neighborhood-illustrated-cover.webp","image"]
 :HL["/best-friends-for-dinner-cover.webp","image"]
 :HL["/you-are-hamster-cover.webp","image"]
 :HL["/odio-el-chocolate/logo.webp","image"]
@@ -19,9 +20,9 @@
 :HL["/human-expenditure-program-bloodmoney-2-0.webp","image"]
 :HL["/home-is-where-he-is-logo.webp","image"]
 :HL["/thumbs/interact-with-me-192.webp","image"]
-:HL["/thumbs/when-the-clock-stops-192.webp","image"]
+:HL["/when-the-clock-stops-illustrated-cover.webp","image"]
 :HL["/thumbs/creepydates-1-192.webp","image"]
-:HL["/thumbs/trees-hate-you-192.webp","image"]
+:HL["/trees-hate-you-illustrated-cover.webp","image"]
 :HL["/thumbs/the-freak-circus-1-192.webp","image"]
 :HL["/thumbs/kingdom-of-marionettes-192.webp","image"]
 :HL["/temple-of-the-jackal-logo.webp","image"]
@@ -33,4 +34,4 @@
 :HL["/choicer-voicer-logo.webp","image"]
 :HL["/over-dose-logo.webp","image"]
 :HL["/lovemaniac-scarlet-lust-logo-2.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"odio-el-chocolate","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"HbleuEZwICwD6GFzrT33r"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"odio-el-chocolate","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"P1hyhKPDJvTJiUk6Ar2N-"}
